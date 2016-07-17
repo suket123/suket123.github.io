@@ -15,7 +15,7 @@ body{
 
 .nav{
   text-align: center;
-  position: relative;
+  position: fixed;
   padding 100px 10px 100px 0px;
   margin-bottom: 0px;
 }
