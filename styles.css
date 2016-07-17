@@ -40,6 +40,10 @@ body{
   padding-left: 250px;
 }
 
-.main h1,h2{
-  font-family: Calibri;
+.main h1{
+  font-family: algerian;
+}
+
+.main h2{
+  font-family: calibri;
 }
