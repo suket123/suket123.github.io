@@ -5,11 +5,8 @@ body{
   margin: 0px;
 }
 
-.header{
-  background-color: aliceblue;
-}
-
 .image{
+  padding-top: 30px;
   padding-left: 10px;
 }
 
@@ -22,8 +19,7 @@ body{
 }
 
 .header{
-  text-align: center;
-  position: fixed;
+  position: relative;
   padding 200px 200px 200px 200px;
   background-color: aliceblue;
 }
