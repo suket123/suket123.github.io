@@ -48,8 +48,8 @@ body{
 }
 
 .main h3,h4{
-  <font color = "black" size = 5" face = "Times-New-Roman">
+  size = "6"
   padding-left: 250px;
-  color: lightcoral;
+  color: black;
   text-shadow: 1px 1px grey;
 }
