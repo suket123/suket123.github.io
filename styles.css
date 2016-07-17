@@ -29,7 +29,7 @@ body{
 .jumbotron{
   background-color: cornflowerblue;
   position: relative;
-  padding: 50px 0px 50px 0px;
+  padding: 35px 0px 35px 0px;
 }
 
 .jumbotron h1,h2{
@@ -42,14 +42,14 @@ body{
   margin: 0px 25px 0px 25px;
 }
 
-.main h3{
+.main{
   padding-top: 50px;
   background-color: aliceblue;
 }
 
 .main h3,h4{
   size = "6"
-  padding-left: 250px;
+  padding-left: 300px;
   color: black;
   text-shadow: 1px 1px grey;
 }
