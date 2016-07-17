@@ -48,10 +48,8 @@ body{
 }
 
 .main{
-  padding-top: 50px;
   background-color: aliceblue;
   padding-left: 300px;
-  padding-bottom: 100px;   
 }
 
 .main h3,h4{
