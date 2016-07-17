@@ -23,7 +23,7 @@ body{
 
 .nav{
   text-align: center;
-  position: relative;
+  position: fixed;
   padding 200px 200px 200px 200px;
   background-color: aliceblue;
 }
