@@ -35,6 +35,7 @@ body{
 
 .jumbotron{
   position: relative;
+  background-color: aliceblue;
   padding: 7px 0px 0px 0px;
 }
 
