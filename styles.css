@@ -44,6 +44,7 @@ body{
 
 .main h3,h4{
   padding-left: 250px;
-  color: lightsalmon;
+  padding-top: 50px;
+  color: indianred;
   text-shadow: 1px 1px grey;
 }
