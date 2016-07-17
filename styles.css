@@ -42,9 +42,12 @@ body{
   margin: 0px 25px 0px 25px;
 }
 
+.main h3{
+  padding-top: 50px;
+}
+
 .main h3,h4{
   padding-left: 250px;
-  padding-top: 50px;
-  color: indianred;
+  color: lightcoral;
   text-shadow: 1px 1px grey;
 }
