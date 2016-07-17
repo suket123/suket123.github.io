@@ -18,7 +18,7 @@ body{
 
 .nav{
   position: relative;
-  padding 9px 0px 50px 0px;
+  padding 9px 10px 50px 0px;
   background-color: aliceblue;
   margin-bottom: 0px;
 }
@@ -33,7 +33,7 @@ body{
 .jumbotron{
   background-color: cornflowerblue;
   position: relative;
-  padding: 75px 0px 75px 0px;
+  padding: 50px 0px 50px 0px;
 }
 
 .jumbotron h1,h2{
