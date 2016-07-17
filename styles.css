@@ -1,5 +1,4 @@
 body{
-  font-family: sans-serif;
   with: 100%;
   height:100%;
   padding: 0px;
@@ -7,8 +6,12 @@ body{
 }
 
 #menu1{
-  align = "left";
-  padding-top: 50px;
+  padding-top: 150px;
+  font-family: sans-serif;
+}
+
+#menu2{
+  font-family: sans-serif;
 }
 
 .nav{
@@ -20,6 +23,7 @@ body{
 }
 
 .nav ul,li,a{
+  font-family: sans-serif;
   display: inline;
   padding-left: 10px;
   text-decoration:none;
@@ -33,6 +37,7 @@ body{
 }
 
 .jumbotron h1,h2{
+  font-family: sans-serif;
   text-align: center;
   color: aliceblue;
   text-shadow: 1px 1px grey;
@@ -50,6 +55,7 @@ body{
 }
 
 .main h3,h4{
+  font-family: Times-new-roman;
   color: dimgrey;
   text-shadow: 1px 1px grey;
 }
