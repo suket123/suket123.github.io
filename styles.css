@@ -21,7 +21,7 @@ body{
   text-align: center;
   position: fixed;
   padding 200px 200px 200px 200px;
-  background: gray;
+  background-color: aliceblue;
 }
 
 .nav ul,li,a{
