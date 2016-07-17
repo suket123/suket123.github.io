@@ -13,15 +13,10 @@ body{
   font-family: sans-serif;
 }
 
-.topspace{
-  background-color: aliceblue;
-}
-
 .nav{
   text-align: center;
   position: relative;
   padding 100px 10px 100px 0px;
-  background-color: aliceblue;
   margin-bottom: 0px;
 }
 
