@@ -15,6 +15,7 @@ body{
 }
 
 .nav{
+  text-align: center;
   position: relative;
   padding 9px 10px 50px 0px;
   background-color: aliceblue;
