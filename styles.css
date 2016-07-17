@@ -11,11 +11,6 @@ body{
   padding-top: 50px;
 }
 
-#menu2{
-  align = "right";
-  padding-top: 50px;
-}
-
 .nav{
   text-align: center;
   position: relative;
@@ -39,7 +34,7 @@ body{
 
 .jumbotron h1,h2{
   text-align: center;
-  color: aliceblue;
+  color: green;
   text-shadow: 1px 1px grey;
 }
 
