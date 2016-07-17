@@ -39,10 +39,10 @@ body{
   padding: 7px 0px 0px 0px;
 }
 
-.jumbotron h1,h2{
+.jumbotron h1{
   font-family: Algerian;
   text-align: center;
-  color: green;
+  color: #00FF00;
   text-shadow: 1px 1px grey;
 }
 
