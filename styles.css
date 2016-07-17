@@ -6,11 +6,11 @@ body{
 }
 
 #menu1{
-  font-family: sans-serif;
+  font-family: Algerian;
 }
 
 #menu2{
-  font-family: sans-serif;
+  font-family: algerian;
 }
 
 .nav{
@@ -36,7 +36,7 @@ body{
   padding-left: 300px;
 }
 
-.main h4{
+.main h1{
   text-decoration:none;
   font-family: Calibri;
   text-shadow: 1px 1px grey;
