@@ -55,7 +55,8 @@ body{
 }
 
 .main h3,h4{
+  text-decoration:none;
   font-family: Times-new-roman;
-  color: dimgrey;
+  color: black;
   text-shadow: 1px 1px grey;
 }
