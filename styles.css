@@ -6,7 +6,13 @@ body{
   margin: 0px;
 }
 
+#menu1{
+  padding-top: 50px;
+}
 
+#menu2{
+  padding-top: 50px;
+}
 
 .nav{
   position: relative;
