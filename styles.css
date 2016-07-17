@@ -22,7 +22,7 @@ body{
   position: fixed;
   padding 100px 10px 100px 0px;
   margin-bottom: 0px;
-  background-color: gray;
+  background: gray;
 }
 
 .nav ul,li,a{
