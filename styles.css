@@ -5,6 +5,10 @@ body{
   margin: 0px;
 }
 
+.image{
+  margin=left: 10px;
+}
+
 #menu1{
   font-family: Algerian;
 }
@@ -18,6 +22,7 @@ body{
   position: fixed;
   padding 100px 10px 100px 0px;
   margin-bottom: 0px;
+  background-color: gray;
 }
 
 .nav ul,li,a{
