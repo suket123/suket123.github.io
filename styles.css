@@ -7,10 +7,12 @@ body{
 }
 
 #menu1{
+  float: left;
   padding-top: 50px;
 }
 
 #menu2{
+  float: right;
   padding-top: 50px;
 }
 
