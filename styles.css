@@ -14,14 +14,14 @@ body{
 }
 
 .topspace{
-  background-color: aliceblue;
+  background-color= "http://suket123.github.io/suket4.gif";
 }
 
 .nav{
   text-align: center;
   position: relative;
   padding 100px 10px 100px 0px;
-  background-color: aliceblue;
+  background-color: http://suket123.github.io/suket4.gif;
   margin-bottom: 0px;
 }
 
@@ -38,7 +38,7 @@ body{
 }
 
 .main{
-  background-color: aliceblue;
+  background-color: http://suket123.github.io/suket4.gif;
   padding-left: 300px;
 }
 
