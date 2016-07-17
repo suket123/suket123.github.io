@@ -5,6 +5,10 @@ body{
   margin: 0px;
 }
 
+.header{
+  background-color: aliceblue;
+}
+
 .image{
   margin=left: 10px;
 }
