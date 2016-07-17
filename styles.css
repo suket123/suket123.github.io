@@ -6,6 +6,16 @@ body{
   margin: 0px;
 }
 
+#menu1{
+  float: left;
+  padding-left: 50px;
+}
+
+#menu2{
+  float: right;
+  padding-right: 50px;
+}
+
 .nav{
   position: relative;
   padding 9px 0px 50px 0px;
