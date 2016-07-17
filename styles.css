@@ -11,10 +11,12 @@ body{
 }
 
 #menu1{
+  float: left;
   font-family: Algerian;
 }
 
 #menu2{
+  float: right;
   font-family: algerian;
 }
 
@@ -28,8 +30,8 @@ body{
   display: inline;
   text-decoration:none;
   color:black;
-  margin-left: 80px;
-  padding-right: 35px;
+  margin-left: 50px;
+  padding-right: 60px;
   /*margin-right: 50px;*/
 }
 
