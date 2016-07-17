@@ -7,12 +7,12 @@ body{
 }
 
 #menu1{
-  float: left;
+  align = "left";
   padding-top: 50px;
 }
 
 #menu2{
-  float: right;
+  align = "right";
   padding-top: 50px;
 }
 
@@ -32,7 +32,7 @@ body{
 }
 
 .jumbotron{
-  background-color: blue;
+  background-color: cornflowerblue;
   position: relative;
   padding: 50px 0px 50px 0px;
 }
