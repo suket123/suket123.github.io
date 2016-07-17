@@ -21,6 +21,7 @@ body{
 }
 
 .nav ul,li,a{
+  background-color: cyan;
   font-family: sans-serif;
   display: inline;
   padding-left: 10px;
@@ -36,7 +37,7 @@ body{
   padding-left: 300px;
 }
 
-.main h3,h4{
+.main h4{
   text-decoration:none;
   font-family: Calibri;
   text-shadow: 1px 1px grey;
