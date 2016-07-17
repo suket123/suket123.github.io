@@ -39,12 +39,11 @@ body{
 }
 
 .main{
-  padding-left: 100px;
   margin: 0px 25px 0px 25px;
 }
 
-.main h3{
-  padding-left: 100px;
+.main h3,h2{
+  padding: 100px 100px 100px 100px;
   color: red;
   text-shadow: 1px 1px grey;
 }
