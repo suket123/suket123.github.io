@@ -20,8 +20,7 @@ body{
 .nav{
   text-align: center;
   position: fixed;
-  padding 100px 10px 100px 0px;
-  margin-bottom: 0px;
+  padding 200px 200px 200px 200px;
   background: gray;
 }
 
