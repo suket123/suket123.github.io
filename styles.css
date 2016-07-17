@@ -40,9 +40,9 @@ body{
 }
 
 .jumbotron h1,h2{
-  font-family: Calibri;
+  font-family: Algerian;
   text-align: center;
-  color: #5DADE2;
+  color: red;
   text-shadow: 1px 1px grey;
 }
 
