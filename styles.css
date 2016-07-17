@@ -33,37 +33,6 @@ body{
   color:dimgrey;
 }
 
-
-#menu3{
-  font-family: sans-serif;
-}
-
-#menu4{
-  font-family: sans-serif;
-}
-
-.topspaces{
-  background-color: aliceblue;
-}
-
-.nav1{
-  text-align: center;
-  position: relative;
-  padding 100px 10px 100px 0px;
-  background-color: aliceblue;
-  margin-bottom: 0px;
-}
-
-.nav1 ul,li,a{
-  font-family: sans-serif;
-  display: inline;
-  padding-left: 10px;
-  text-decoration:none;
-  color:dimgrey;
-}
-
-
-
 .jumbotron{
   position: relative;
   background-color: aliceblue;
