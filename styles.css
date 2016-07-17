@@ -33,19 +33,6 @@ body{
   color:dimgrey;
 }
 
-.jumbotron{
-  position: relative;
-  background-color: aliceblue;
-  padding: 7px 0px 0px 0px;
-}
-
-.jumbotron h1{
-  font-family: Algerian;
-  text-align: center;
-  color: #808080;
-  text-shadow: 1px 1px grey;
-}
-
 .main{
   margin: 0px 25px 0px 25px;
 }
