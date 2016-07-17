@@ -47,6 +47,8 @@ body{
 }
 
 .main h3,h4{
+  background-color: aliceblue;
+  <font color = "black" size = 5" face = "Times-New-Roman"> 
   padding-left: 250px;
   color: lightcoral;
   text-shadow: 1px 1px grey;
