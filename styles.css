@@ -35,13 +35,13 @@ body{
 
 .jumbotron{
   position: relative;
-  padding: 20px 0px 20px 0px;
+  padding: 10px 0px 10px 0px;
 }
 
 .jumbotron h1,h2{
-  font-family: sans-serif;
+  font-family: Calibri;
   text-align: center;
-  color: #52BE80;
+  color: #F4D03F;
   text-shadow: 1px 1px grey;
 }
 
