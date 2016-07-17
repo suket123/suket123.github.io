@@ -45,11 +45,11 @@ body{
 .main{
   padding-top: 50px;
   background-color: aliceblue;
+  padding-left: 300px;
 }
 
 .main h3,h4{
   size = "6"
-  padding-left: 300px;
-  color: black;
+  color: lightblue;
   text-shadow: 1px 1px grey;
 }
