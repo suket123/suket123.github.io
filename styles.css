@@ -19,8 +19,7 @@ body{
 }
 
 .header{
-  position: relative;
-  padding 200px 200px 200px 200px;
+  position: fixed;
   background-color: aliceblue;
 }
 
