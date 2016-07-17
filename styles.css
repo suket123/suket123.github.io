@@ -21,7 +21,6 @@ body{
 }
 
 .nav ul,li,a{
-  background-color: cyan;
   font-family: sans-serif;
   display: inline;
   padding-left: 10px;
