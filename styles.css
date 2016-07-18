@@ -20,11 +20,11 @@ body{
 
 .header{
   position: fixed;
-  background-color: aliceblue;
+  background-color: #B5CFD8;
 }
 
 .nav ul,li,a{
-  font-family: sans-serif;
+  font-family: Algerian;
   display: inline;
   text-decoration:none;
   color:black;
