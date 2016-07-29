@@ -8,18 +8,16 @@ body{
 .image{
   padding-top: 50px;
   padding-left: 10px;
+  padding-right: 50px;
 }
 
-.image2{
-  padding-left: 10px;
+.image3{
+  padding-right: 10px;
+  padding-left: 35px;
 }
 
 #menu1{
   font-family: Algerian;
-}
-
-#menu2{
-  font-family: algerian;
 }
 
 .header{
@@ -27,20 +25,46 @@ body{
   background-color: #6AC1B8;
 }
 
+ul {
+  width: 100%;
+  display: table;
+  table-layout: fixed;
+}
+
+ul li {
+  display: table-cell;
+  width: auto;
+  text-align: center;
+}
+
+a{
+  padding-right: 40px;
+}
+
+/*
+.nav{
+  width: 100%;
+}
+
 .nav ul,li,a{
   font-family: Algerian;
   display: inline;
   text-decoration:none;
   color:black;
-  margin-left: 50px;
+  padding-left: 50px;
+  padding-right: 50px;
+}*/
+
+  /*margin-left: 50px;
   margin-right: 58px;
   margin-bottom: 20px;
-  padding-bottom: 20px;
+  padding-bottom: 20px;*/
   /*margin-right: 50px;*/
-}
+
+
 
 .main{
-  margin: 0px 25px 0px 25px;
+  margin: 0px 50px 0px 15px;
 }
 
 .main{
