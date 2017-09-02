@@ -52,8 +52,8 @@
 #social {
 	padding-top: 25px;
 	padding-bottom: 25px;
-	background-color: #f2f2f2;
-  padding-left: 600px;
+	/*padding-left: 600px;*/
+	background-color: #f2f2f2;  	
 }
 
 #social i{
