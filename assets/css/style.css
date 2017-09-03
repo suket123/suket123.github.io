@@ -20,20 +20,18 @@
 
 .header_image {
 	/*background: url(../img/suket.jpg);*/
-    padding-top: 50px;
-    display: block;
+	
+    padding-top: 60px;
+    /*display: block;
     margin: auto;
     width: 700px;
-    height: 300px;
-	/*padding-top: 250px;*/
-	/*text-align:center;
-	background-attachment: relative;
-	background-position: center center;
-	min-height: 650px;
-    background-size: 100%;*/
+    height: 300px;*/
+
 }
 
-
+.left_side_picture{
+	padding-left: 30px;
+}
 
 #headerwrap h1 {
 	color:#ffffff;
